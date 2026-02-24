@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "V6B6X8R9CR.com.chasemetoyer.wordlevs",
+                "paths": [
+                    "/PolicyWorldVS/invite/*",
+                    "/PolicyWorldVS/game/*"
+                ]
+            }
+        ]
+    }
+}
